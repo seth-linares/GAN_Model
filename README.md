@@ -29,10 +29,10 @@ The learning process of a GAN is pretty fascinating. At first, the generator was
 
 
 But after about 10 epochs, things started to change. Those blobs of colors began to take on more structure, and I could see the beginnings of shapes forming. Here is what it had gotten to by epoch 10:
-![Epoch 10](images/image2.png)
+![Epoch 10](images/image3.png)
 
 By the time I hit around 40 epochs, the generator's creations started to look more and more like actual numbers. By 200 epochs, some of the numbers were relatively clear and recognizable. Here is what it had gotten to by epoch 200:
-![Epoch 200](images/image3.png)
+![Epoch 200](images/image2.png)
 
 
 ## Communication of Results
